@@ -1,3 +1,3 @@
 
-# Portal da Transparência
-Documentações e instruções sobre o Portal da Transparência do Poder Executivo de Santa Catarina.
+# Portal de Dados Abertos
+Documentações e instruções sobre o Portal de Dados Abertos do Estado de Santa Catarina.
