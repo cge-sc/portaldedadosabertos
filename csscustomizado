@@ -1,0 +1,99 @@
+.html {
+    background-color: #fff;
+    background: #fff;
+    color: #444;
+    font-size: 14px;
+    font-family: 'Open Sans',sans-serif;
+}
+.body {
+    background-color: #fff;
+    background: #f2f2f2;
+    color: #444;
+    font-size: 14px;
+    font-family: 'Open Sans',sans-serif;
+}
+.js  {
+    background: #000;
+}
+.p {
+    background-color: #fff;
+    background: #fff;
+    color: #444;
+    font-size: 14px;
+    font-family: 'Open Sans',sans-serif;
+}
+.toolbar {
+    background: #f2f2f2;
+    color: #444;
+}
+.toolbar .breadcrumb a {
+    background: #f2f2f2;
+    color: #444;
+}
+[role="main"], .main {
+    background: #f2f2f2;
+    color: #444;
+}
+.hero {
+    background: #f2f2f2;
+}
+
+.account-masthead {
+    background-color: #fff;
+    background: #fff;
+    color: #000;
+}
+.account-masthead .account .ul .li .a  {
+    color: #ccc;
+}
+.masthead {
+    background-color: #fff;
+    background: #fff;
+    color: #000;
+}
+.masthead .nav {
+    background-color: #fff;
+    background: #fff;
+    color: #000;
+}
+.masthead .ul .li .a {
+    color: #ccc;
+}
+.masthead .nav .a{
+    background-color: #fff;
+    background: #fff;
+    color: #ccc;
+}
+.masthead .navigation .nav-pills li a:hover, .masthead .navigation .nav-pills li a:focus, .masthead .navigation .nav-pills li.active a {
+    background-color: #444;
+    color: #ccc;
+}
+.masthead .nav > li > a, .masthead .nav > li > a:focus, .masthead .nav > li > a:hover, .masthead .nav > .active > a, .masthead .nav > .active > a:hover, .masthead .nav > .active > a:focus {
+    color: #444;
+}
+
+.homepage {
+    background: rgb(52, 101, 52);
+}
+
+.btn-primary {
+    background-color: rgb(52, 101, 52);
+}
+
+.homepage .module-search .module-content {
+    background-color: rgb(166,206,57);
+}
+.homepage .module-search .tags{
+    background-color: rgb(52, 101, 52);
+}
+
+.site-footer a {
+    color: #ccc;
+}
+.site-footer, .site-footer label, .site-footer small {
+    color: #ccc;
+}
+.site-footer {
+    background-color: #252525;
+    background: #252525;
+}
