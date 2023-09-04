@@ -15,7 +15,7 @@ As atividades mais comuns do Portal são:
 * Criação e manutenção de Grupos; e
 * Configurações do Portal.
 
-O minitoramento pode ser dividido em:
+O monitoramento pode ser dividido em:
 
 * Publicação dos Planos de Dados Abertos e Abertura dos Conjuntos de Dados;
 * Qualidade dos dados abertos; e
