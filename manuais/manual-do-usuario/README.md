@@ -25,7 +25,7 @@ O Portal é composto pelas seguintes interfaces:
 * [Grupos](grupos/); e
 * [Sobre](sobre.md).
 
-Além disso o Portal disponibiliza uma API para consumo dos dados armazenados na sua base de dados. A documentação dessa API pode ser encontrada em [https://docs.ckan.org/en/2.8/api/](https://docs.ckan.org/en/2.8/api/).
+Além disso, o Portal disponibiliza uma API para consumo dos dados armazenados na sua base de dados. A documentação dessa API pode ser encontrada em [https://docs.ckan.org/en/2.8/api/](https://docs.ckan.org/en/2.8/api/).
 
 {% hint style="info" %}
 O Portal de Dados Abertos é um instância do [CKAN](https://ckan.org/), desenvolvido de forma colaborativa pela [Open Knowledge Foundation - OKF](https://okfn.org/),  sendo um poderoso sistema de gerenciamento de dados que fornece ferramentas para simplificar o processo de publicação, compartilhamento e uso de dados.
