@@ -14,7 +14,7 @@ Devem ser organizadas conforme as funções e subfunções de governo definidas 
 
 No exemplo abaixo os campos customizados Função e Subfunção são apresentados, devendo ser preenchidos pelo administrador do sistema quando um grupo for criado.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Detalhamento do Grupo</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Detalhamento do Grupo</p></figcaption></figure>
 
 {% hint style="info" %}
 Deve ser evitada a criação de grupos temáticos que não estejam na portaria federal.
@@ -36,4 +36,4 @@ Nessa tela devem ser preechidos os campos, destacando os campos ustomizados Fun�
 Os ícones foram obtidos no site [https://www.flaticon.com/br/](https://www.flaticon.com/br/)
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Tela de Grupos - Campos </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Tela de Grupos - Campos </p></figcaption></figure>

@@ -17,3 +17,7 @@ Devem ser informados os campos Nome, Descrição e logotipo. Também pode ser ed
 É fundamental a inserção dos campos customizados abaixo.
 
 <figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption><p>Organização - Campos Customizados</p></figcaption></figure>
+
+Podem ser adicionados usuários para administrar a orgnização e os seus conjuntos de dados, clicndo na aba Membros e depois no botão Adicionar Membro.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Organização- Listagem de Membros</p></figcaption></figure>
