@@ -19,7 +19,7 @@ Por meio do portal os dados podem ser acessados livremente, permitindo cruzament
 
 O Portal é composto pelas seguintes interfaces:
 
-* [Tela Inicial;](tela-inicial.md)
+* [Tela Inicial](tela-inicial.md);
 * [Conjuntos de Dados](conjuntos-de-dados/);
 * [Organizações](organizacoes/);
 * [Grupos](grupos/); e
