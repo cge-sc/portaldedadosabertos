@@ -33,6 +33,6 @@ O Portal de Dados Abertos é um instância do [CKAN](https://ckan.org/), desenvo
 
 Mais informações podem ser encontradas no [Portal da Transparência do Poder Executivo do Estado de Santa Catarina](http://www.transparencia.sc.gov.br/), acessado em [https://transparencia.sc.gov.br/](https://transparencia.sc.gov.br/).
 
-## 📣&#x20;
-
+{% hint style="danger" %}
 Caso não tenha encontrado os dados que procurava entre em contato pelo email gedad@cge.sc.gov.br ou faça um pedido de acesso à informação (LAI) pela [Ouvidoria-Geral do Estado](http://www.ouvidoria.sc.gov.br/cidadao\_lai.php), acessado em [http://ouvidoria.sc.gov.br/](http://ouvidoria.sc.gov.br/), opção 3 - E-SIC.
+{% endhint %}
