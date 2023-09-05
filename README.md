@@ -37,4 +37,6 @@ Mais informações podem ser encontradas no [Portal da Transparência do Poder E
 
 Caso não tenha encontrado os dados que procurava entre em contato pelo email gedad@cge.sc.gov.br ou faça um pedido de acesso à informação (LAI) pela [Ouvidoria-Geral do Estado](http://www.ouvidoria.sc.gov.br/cidadao\_lai.php), acessado em [http://ouvidoria.sc.gov.br/](http://ouvidoria.sc.gov.br/), opção 3 - E-SIC.
 
+{% hint style="info" %}
 Se você quiser contribuir ou relatar algo entre em contato com Gerência de Transparência e Dados Abertos, pelo e-mail gedad@cge.sc.gov.br ou pelo telefone (48) 3665-2406.
+{% endhint %}
