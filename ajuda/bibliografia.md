@@ -2,6 +2,8 @@
 
 **BERNADETE**, F; LÓSCIO; et al. Fundamentos para Publicação de Dados na Web. São Paulo: Comitê Gestor da Internet Brasil, 2018.
 
+**EIS**, Diego. Introdução à Web Semântica: A Inteligência da Informação. São Paulo: Casa do Código/Allura, 2017.
+
 **ISOTANI**, Seiji; BITTENCOURT, Ig Ilbert. Dados abertos conectados. São Paulo: Novatec, 2015.
 
 **LYRIO**, M. V. L., LUNKES, R. J., & TALIANI, E. T. C. Transparência governamental na Internet: uma análise comparativa no âmbito do poder executivo brasileiro e espanhol. Revista da CGU, 11(19), 63–74, 2019.
