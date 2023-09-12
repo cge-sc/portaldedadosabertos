@@ -2,7 +2,7 @@
 description: Aa configrações aqui apresentadas impactam em todo o Portal
 ---
 
-# Configurações do Portal
+# ⚙ Configurações do Portal
 
 Ao clicar no ícone de configuação (martelo ao lado nome do usuário), exibido apenas quando usuário administrador estiver logado, será apresenta a interface de configurações do Portal.
 

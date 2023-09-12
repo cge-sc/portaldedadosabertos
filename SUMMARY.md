@@ -43,7 +43,7 @@
     * [⚙ Configurações do Portal](manuais/manual-do-administrador/manutencao-do-portal-de-dados-abertos/configuracoes-do-portal.md)
   * [👨💻 Monitoramentos](manuais/manual-do-administrador/monitoramentos/README.md)
     * [Monitoramento dos PDAs](manuais/manual-do-administrador/monitoramentos/monitoramento-dos-pdas/README.md)
-      * [Minitoramento da Publicação dos Planos de Dados Abertos](manuais/manual-do-administrador/monitoramentos/monitoramento-dos-pdas/minitoramento-da-publicacao-dos-planos-de-dados-abertos.md)
+      * [Monitoramento da Publicação dos Planos de Dados Abertos](manuais/manual-do-administrador/monitoramentos/monitoramento-dos-pdas/monitoramento-da-publicacao-dos-planos-de-dados-abertos.md)
       * [Monitoramento da Abertura de Conjuntos de Dados](manuais/manual-do-administrador/monitoramentos/monitoramento-dos-pdas/monitoramento-da-abertura-de-conjuntos-de-dados.md)
     * [Monitoramento da Qualidade dos Conjuntos de Dados](manuais/manual-do-administrador/monitoramentos/monitoramento-da-qualidade-dos-conjuntos-de-dados.md)
     * [Monitoramento do Reuso dos Conjuntos de Dados](manuais/manual-do-administrador/monitoramentos/monitoramento-do-reuso-dos-conjuntos-de-dados.md)
