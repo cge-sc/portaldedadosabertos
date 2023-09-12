@@ -4,4 +4,4 @@ description: Definição dos metadados e como será realizada a automação da c
 
 # 🤖 Automação da Carga
 
-Em contrução
+Em construção

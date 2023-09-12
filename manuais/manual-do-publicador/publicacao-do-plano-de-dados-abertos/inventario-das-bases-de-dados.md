@@ -6,4 +6,4 @@ description: >-
 
 # 💾 Inventário das Bases de Dados
 
-Em construção novamente
+Em construção
