@@ -40,7 +40,7 @@
   * [🏛 Criação de Organizações](manuais/manual-do-administrador/criacao-de-organizacoes.md)
   * [🗃 Criação de Grupos](manuais/manual-do-administrador/criacao-de-grupos.md)
   * [🏗 Manutenção do Portal de Dados Abertos](manuais/manual-do-administrador/manutencao-do-portal-de-dados-abertos.md)
-    * [Configurações do Portal](manuais/manual-do-administrador/manutencao-do-portal-de-dados-abertos/configuracoes-do-portal.md)
+    * [⚙ Configurações do Portal](manuais/manual-do-administrador/manutencao-do-portal-de-dados-abertos/configuracoes-do-portal.md)
   * [👨💻 Monitoramentos](manuais/manual-do-administrador/monitoramentos/README.md)
     * [Monitoramento dos PDAs](manuais/manual-do-administrador/monitoramentos/monitoramento-dos-pdas/README.md)
       * [Minitoramento da Publicação dos Planos de Dados Abertos](manuais/manual-do-administrador/monitoramentos/monitoramento-dos-pdas/minitoramento-da-publicacao-dos-planos-de-dados-abertos.md)
