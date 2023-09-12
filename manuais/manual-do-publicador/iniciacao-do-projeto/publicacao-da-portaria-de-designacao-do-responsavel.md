@@ -10,6 +10,6 @@ O ideal é a publicação de portaria emitida pelo gestor da pasta (secretário,
 
 Em ambos os casos é necessário informar a Gerência de Transparência e Dados sobre a designação dos responsáveis.
 
-MODELO DE PORTARIA
+MODELO DE PORTARIA (Em elaboração)
 
-MODELO DE PROCESSO SGPe
+MODELO DE PROCESSO SGPe (Em elaboração)

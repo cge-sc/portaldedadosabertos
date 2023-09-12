@@ -8,4 +8,4 @@ Para que o usuário e senha sejam criados é necessária a assinatura de Termo d
 
 O intuito desse termo é garantir que os usuários tenham ciência que a publicação de qualquer dado que contenha sigilo ou não tenha sido autorizado a responsabilidade é exclusiva do usuário, ficando o Portal de Dados Abertos e seus gestores isentos de culpabildiade.
 
-MODELO DE TERMO
+MODELO DE TERMO  (Em elaboração)
