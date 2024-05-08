@@ -16,6 +16,6 @@
 
 **SAFAROV**, I.; MEIJER, A.; GRIMMELIKHUIJSEN, S. Utilization of open government data: A systematic literature review of types, conditions, effects and users. Information Polity, \[s. l.], v. 22, n. 1, p. 1–24, 2017.
 
-**TRIBUNAL DE CONTAS DA UNIÃO**. 5 motivos para a abetura de dados na Administração Pública, Brasília: 2015.
+**TRIBUNAL DE CONTAS DA UNIÃO**. 5 motivos para a abertura de dados na Administração Pública, Brasília: 2015.
 
 **U. N. SECRETARY-GENERAL**. A World that Counts: mobilizing the data revolution for sustainable development, 2014.
